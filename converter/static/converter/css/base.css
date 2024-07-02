@@ -1,0 +1,37 @@
+body{
+    background: #F6F6F6 !important;
+    font-family: "Inter", sans-serif !important;
+}
+.navbar{
+    background: #FFFFFF;
+    border-bottom: 1px solid #F2F2F2;
+}
+.footer{
+    background: #444444;
+    color: white;
+    height: 250px;
+}
+.navbar-brand{
+    color: black;
+}
+.swap-button{
+    background: none !important;
+    border: none !important;
+}
+.button-style-1{
+    margin: 0px !important;
+    padding: 0px !important;
+    background: #E55D42 !important;
+    color: white !important;
+    height: min-content;
+}
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: auto;
+    min-height: 25vh;
+    max-height:75vh;
+}
